@@ -1,10 +1,11 @@
 <div dir="rtl">
 
-# لیست دیتابیس های نمونه برای یادگیری و تمرین
-### به چالش لیست دیتابیس های نمونه اسکیوال سرور برای یادگیری و تمرین خوش امدید
-### Welcome to the challenge of sample SQL Server database for learning and practice
+# دیتابیس ادغام مقدار ستون ها
 
-این **مخزن** بروز رسانی خواهد شد
+<p>
+این دیتابیس شامل یک جدول با ستون های زیر می باشد
+This database contains a table with the following columns
 
-+[دیتابیس ادغام مقدار ستون ها | Database merging columns](https://github.com/miladkeshvari/DataBaseSample/tree/master/DataBaseMergContent)
+![تصویر دیتابیس](https://github.com/miladkeshvari/DataBaseSample/blob/master/DataBaseMergContent/img/dbimg.png)
+</p>
 </div>
